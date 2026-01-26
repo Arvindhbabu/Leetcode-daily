@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
+| [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
