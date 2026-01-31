@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
