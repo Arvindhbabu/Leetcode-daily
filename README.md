@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
