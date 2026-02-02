@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -113,5 +114,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
