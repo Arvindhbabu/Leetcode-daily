@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
+| [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
