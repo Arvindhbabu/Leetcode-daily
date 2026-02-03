@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
