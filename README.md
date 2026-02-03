@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
