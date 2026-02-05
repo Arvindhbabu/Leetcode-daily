@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3379-transformed-array) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
