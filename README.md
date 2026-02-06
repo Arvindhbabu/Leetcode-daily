@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0207-course-schedule) |
@@ -180,8 +181,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
