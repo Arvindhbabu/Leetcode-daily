@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
@@ -181,14 +182,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
