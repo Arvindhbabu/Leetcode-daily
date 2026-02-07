@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
