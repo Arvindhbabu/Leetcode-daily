@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
