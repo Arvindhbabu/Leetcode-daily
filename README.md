@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3637-trionic-array-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3719-longest-balanced-subarray-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -242,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
