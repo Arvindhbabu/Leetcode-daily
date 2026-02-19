@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
