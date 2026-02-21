@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Design
 |  |
 | ------- |
