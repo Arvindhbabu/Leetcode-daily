@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
