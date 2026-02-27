@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0909-snakes-and-ladders) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3714-longest-balanced-substring-ii) |
 ## Trie
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
