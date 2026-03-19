@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0909-snakes-and-ladders) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0433-minimum-genetic-mutation) |
 | [0696-count-binary-substrings](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
+| [0433-minimum-genetic-mutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0433-minimum-genetic-mutation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
