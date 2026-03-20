@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0207-course-schedule) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 | [0433-minimum-genetic-mutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0433-minimum-genetic-mutation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
