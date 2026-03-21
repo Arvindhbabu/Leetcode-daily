@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0399-evaluate-division) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Binary Search
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0433-minimum-genetic-mutation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
