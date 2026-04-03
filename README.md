@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3379-transformed-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0909-snakes-and-ladders](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0909-snakes-and-ladders) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
