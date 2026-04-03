@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3637-trionic-array-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Depth-First Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph Theory
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3640-trionic-array-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
