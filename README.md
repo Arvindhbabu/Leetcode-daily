@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-snakes-and-ladders](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0909-snakes-and-ladders) |
 | [1200-minimum-absolute-difference](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2751-robot-collisions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2751-robot-collisions) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Design
 |  |
