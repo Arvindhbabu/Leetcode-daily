@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0799-champagne-tower](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0401-binary-watch) |
 ## Hash Table
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1382-balance-a-binary-search-tree) |
