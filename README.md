@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
