@@ -373,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
