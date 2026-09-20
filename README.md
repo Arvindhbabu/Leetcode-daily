@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0332-reconstruct-itinerary) |
 | [0761-special-binary-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0761-special-binary-string) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
