@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
