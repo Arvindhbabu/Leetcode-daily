@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0168-excel-sheet-column-title) |
