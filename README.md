@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1148-article-views-i](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/1683-invalid-tweets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
