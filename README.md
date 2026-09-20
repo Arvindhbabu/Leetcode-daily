@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0130-surrounded-regions) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Arvindhbabu/Leetcode-daily/tree/master/0168-excel-sheet-column-title) |
